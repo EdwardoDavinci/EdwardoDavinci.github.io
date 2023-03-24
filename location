@@ -1,0 +1,28 @@
+<html>
+<meta>
+<head><link rel="stylesheet" href="mystyle.css"></head>  
+<title> Johnsons of Wetherby</title>
+<link rel="icon" type="image/jpg" href="Images/favicon.ico"/>
+<body> 
+<meta> <header class="top-header"> 
+    <h1>Johnson's of Wetherby</h1>
+</header> 
+<div class="topnav">      
+    <a href="JohnsonsofWetherby">About Us</a>
+    <a href="Meet the staff">Meet The Staff</a>
+    <a href="contactus">Contact us</a>
+    <a href="location">Where are we located?</a>
+</div>   
+        <h1>Where are we?</h1>
+        <p1>You can find us at  59 Market Place, Wetherby LS22 6LN</p1>
+        <br> <br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d384.4968559759359!2d-1.3860023975116063!3d53.928614198350424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48794f121493d169%3A0xe436777ef667e046!2sJohnson%20%26%20Sons!5e0!3m2!1sen!2suk!4v1673639956273!5m2!1sen!2suk"
+         width="1000" height="600" style="border:0;" allowfullscreen="" loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        </article>
+        <footer>Thank you for visiting Johnsonsofwetherby.co.uk
+            <br> 01937 582070
+            <br>c.a.johnsons@outlook.com</footer>
+        
+</body> 
